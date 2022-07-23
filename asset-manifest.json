@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/habit-tracker-react-app/static/js/main.cfc757fc.js",
+    "index.html": "/habit-tracker-react-app/index.html",
+    "main.cfc757fc.js.map": "/habit-tracker-react-app/static/js/main.cfc757fc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cfc757fc.js"
+  ]
+}
